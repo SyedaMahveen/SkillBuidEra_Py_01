@@ -44,17 +44,6 @@ This project helps improve understanding of Python fundamentals, string manipula
 
 
 
-## How to Run the Project
-
-1. Install Python 3 on your system.
-2. Download or clone this repository.
-3. Open the project folder in Terminal or Command Prompt.
-4. Run the following command:
-
-python password_generator.py
-
-5. Enter the desired password length.
-6. The program will generate and display a secure password.
 
 
 
