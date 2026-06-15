@@ -90,5 +90,4 @@ Through this project, I learned:
 Strong passwords are essential for protecting online accounts and sensitive information. This project demonstrates how Python can be used to generate secure passwords that help reduce the risk of unauthorized access and common cyberattacks.
 
 
-Screenshot 2026-06-15 101649.png
 
