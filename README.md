@@ -5,9 +5,13 @@
 ## Project Information
 
 **Project Title:** Password Generator
+
 **Intern Name:** Mahveen Sultana
+
 **Intern ID:** TSPYT26P26162
+
 **Organization:** SkillBuildEra
+
 **Internship Role:** Python Programming Intern
 
 
@@ -89,5 +93,5 @@ Through this project, I learned:
 
 Strong passwords are essential for protecting online accounts and sensitive information. This project demonstrates how Python can be used to generate secure passwords that help reduce the risk of unauthorized access and common cyberattacks.
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cae1c7bc-e08a-4c88-9d75-165b4c302b61" />
 
